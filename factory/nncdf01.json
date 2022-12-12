@@ -1,0 +1,9 @@
+{
+	"name": "nncdf01",
+	"location": "centralindia",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "e983a935-b17b-45a6-b4c7-0cd528a74c0c",
+		"tenantId": "c3197ecc-c88f-4b3f-ae3a-ce7dd035333d"
+	}
+}
